@@ -67,3 +67,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass'
 gem 'simple_form'
 
+# seeding
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
